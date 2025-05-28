@@ -6,7 +6,7 @@ This repository contains my daily practice of Data Structures and Algorithms (DS
 
 Solve at least one problem per day to sharpen problem-solving skills, prepare for technical interviews, and keep a consistent GitHub contribution streak.
 
-## 🛠 Technologies Used
+## 🛠 Programming Language
 
 -  Python
 
