@@ -32,15 +32,20 @@ The algorithm works by **pairing different elements** and canceling them out. If
 
 ## ✅ Example
 
-```python
-def majorityElement(nums):
-    count = 0
-    candidate = None
-
-    for num in nums:
-        if count == 0:
+```go
+func majorityElement(nums []int) int {
+    cnt := 0
+    candidate := 0
+    for _, num := range(nums) {
+        if cnt == 0 {
             candidate = num
-        count += 1 if num == candidate else -1
-
+        }
+        if (candidate == num) {
+            cnt++
+        } else {
+            cnt--
+        }
+    }
     return candidate
+}
 ```
