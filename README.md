@@ -8,7 +8,7 @@ Solve at least one problem per day to sharpen problem-solving skills, prepare fo
 
 ## 🛠 Programming Language
 
--  Python
+-  Go
 
 ## 📁 Folder Structure
 
@@ -18,7 +18,7 @@ daily-dsa/
 ├── progress.md
 ├── solutions/
 │   ├── arrays/
-│   │   └── solution.py
+│   │   └── solution.go
 │   ├── strings/
 │   ├── trees/
 │   └── ...

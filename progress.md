@@ -4,7 +4,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 
 ## 🔢 Problem Count
 
-**Total Solved:** 2 problems ✅
+**Total Solved:** 3 problems ✅
 
 ---
 
