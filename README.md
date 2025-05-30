@@ -4,7 +4,7 @@ This repository contains my daily practice of Data Structures and Algorithms (DS
 
 ## 🎯 Goal
 
-Solve at least one problem per day to sharpen problem-solving skills, prepare for technical interviews, and keep a consistent GitHub contribution streak.
+Solve at least one problem per day to sharpen problem-solving skills, prepare for technical interviews, and keep a consistent GitHub contribution streak
 
 ## 🛠 Programming Language
 
