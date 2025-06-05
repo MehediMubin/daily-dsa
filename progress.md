@@ -4,7 +4,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 
 ## 🔢 Problem Count
 
-**Total Solved:** 5 problems ✅
+**Total Solved:** 7 problems ✅
 
 ---
 
@@ -20,10 +20,12 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 
 ## 📅 June 2025
 
-| Date       | Problem                         | Topic  | Platform | Link                                                                           |
-| ---------- | ------------------------------- | ------ | -------- | ------------------------------------------------------------------------------ |
-| 2025-06-02 | Best Time to Buy and Sell Stock | Arrays | LeetCode | [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |
-| 2025-06-04 | Rotate Array                    | Arrays | LeetCode | [Problem Link](https://leetcode.com/problems/rotate-array/)                    |
+| Date       | Problem                            | Topic  | Platform | Link                                                                              |
+| ---------- | ---------------------------------- | ------ | -------- | --------------------------------------------------------------------------------- |
+| 2025-06-02 | Best Time to Buy and Sell Stock    | Arrays | LeetCode | [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)    |
+| 2025-06-04 | Rotate Array                       | Arrays | LeetCode | [Problem Link](https://leetcode.com/problems/rotate-array/)                       |
+| 2025-06-04 | Product of Array Except Self       | Arrays | LeetCode | [Problem Link](https://leetcode.com/problems/product-of-array-except-self/)       |
+| 2025-06-04 | Best Time to Buy and Sell Stock II | Arrays | LeetCode | [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
 
 ---
 
