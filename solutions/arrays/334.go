@@ -1,3 +1,8 @@
+// Problem: Increasing Triplet Subsequence
+// Link: https://leetcode.com/problems/increasing-triplet-subsequence/
+// Time Complexity: O(n)
+// Space Complexity: O(1)
+
 import "math"
 
 func increasingTriplet(nums []int) bool {
