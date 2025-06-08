@@ -1,6 +1,6 @@
 // Problem: Is Subsequence
 // Link: https://leetcode.com/problems/is-subsequence/description/
-// Time Complexity: O(max(len(s), len(t))) -> O(n)
+// Time Complexity: O(n), where n is the length of the string t
 // Space Complexity: O(1)
 
 

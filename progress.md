@@ -4,7 +4,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 
 ## 🔢 Problem Count
 
-**Total Solved:** 9 problems ✅
+**Total Solved:** 10 problems ✅
 
 ---
 
@@ -20,14 +20,15 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 
 ## 📅 June 2025
 
-| Date       | Problem                            | Topic  | Platform | Link                                                                              |
-| ---------- | ---------------------------------- | ------ | -------- | --------------------------------------------------------------------------------- |
-| 2025-06-02 | Best Time to Buy and Sell Stock    | Arrays | LeetCode | [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)    |
-| 2025-06-04 | Rotate Array                       | Arrays | LeetCode | [Problem Link](https://leetcode.com/problems/rotate-array/)                       |
-| 2025-06-05 | Product of Array Except Self       | Arrays | LeetCode | [Problem Link](https://leetcode.com/problems/product-of-array-except-self/)       |
-| 2025-06-05 | Best Time to Buy and Sell Stock II | Arrays | LeetCode | [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
-| 2025-06-06 | Number of Zero-Filled Subarrays    | Arrays | LeetCode | [Problem Link](https://leetcode.com/problems/number-of-zero-filled-subarrays/)    |
-| 2025-06-07 | Increasing Triplet Subsequence     | Arrays | LeetCode | [Problem Link](https://leetcode.com/problems/increasing-triplet-subsequence/)     |
+| Date       | Problem                            | Topic   | Platform | Link                                                                              |
+| ---------- | ---------------------------------- | ------- | -------- | --------------------------------------------------------------------------------- |
+| 2025-06-02 | Best Time to Buy and Sell Stock    | Arrays  | LeetCode | [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)    |
+| 2025-06-04 | Rotate Array                       | Arrays  | LeetCode | [Problem Link](https://leetcode.com/problems/rotate-array/)                       |
+| 2025-06-05 | Product of Array Except Self       | Arrays  | LeetCode | [Problem Link](https://leetcode.com/problems/product-of-array-except-self/)       |
+| 2025-06-05 | Best Time to Buy and Sell Stock II | Arrays  | LeetCode | [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
+| 2025-06-06 | Number of Zero-Filled Subarrays    | Arrays  | LeetCode | [Problem Link](https://leetcode.com/problems/number-of-zero-filled-subarrays/)    |
+| 2025-06-07 | Increasing Triplet Subsequence     | Arrays  | LeetCode | [Problem Link](https://leetcode.com/problems/increasing-triplet-subsequence/)     |
+| 2025-06-08 | Is Subsequence                     | Strings | LeetCode | [Problem Link](https://leetcode.com/problems/is-subsequence/)                     |
 
 ---
 
