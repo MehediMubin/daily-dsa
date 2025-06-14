@@ -4,7 +4,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 
 ## 🔢 Problem Count
 
-**Total Solved:** 11 problems ✅
+**Total Solved:** 12 problems ✅
 
 ---
 
@@ -30,6 +30,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 | 2025-06-07 | Increasing Triplet Subsequence     | Arrays  | LeetCode | [Problem Link](https://leetcode.com/problems/increasing-triplet-subsequence/)     |
 | 2025-06-08 | Is Subsequence                     | Strings | LeetCode | [Problem Link](https://leetcode.com/problems/is-subsequence/)                     |
 | 2025-06-11 | Valid Palindrome                   | Strings | LeetCode | [Problem Link](https://leetcode.com/problems/valid-palindrome/)                   |
+| 2025-06-14 | Longest Common Prefix              | Strings | LeetCode | [Problem Link](https://leetcode.com/problems/longest-common-prefix/)              |
 
 ---
 
