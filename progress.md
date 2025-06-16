@@ -4,7 +4,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 
 ## 🔢 Problem Count
 
-**Total Solved:** 13 problems ✅
+**Total Solved:** 14 problems ✅
 
 ---
 
@@ -32,6 +32,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 | 2025-06-11 | Valid Palindrome                   | Strings | LeetCode | [Problem Link](https://leetcode.com/problems/valid-palindrome/)                   |
 | 2025-06-14 | Longest Common Prefix              | Strings | LeetCode | [Problem Link](https://leetcode.com/problems/longest-common-prefix/)              |
 | 2025-06-15 | Reverse Words in a String          | Strings | LeetCode | [Problem Link](https://leetcode.com/problems/reverse-words-in-a-string/)          |
+| 2025-06-16 | Single Number                      | Arrays  | LeetCode | [Problem Link](https://leetcode.com/problems/single-number/)                      |
 
 ---
 
