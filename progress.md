@@ -4,7 +4,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 
 ## 🔢 Problem Count
 
-**Total Solved:** 14 problems ✅
+**Total Solved:** 15 problems ✅
 
 ---
 
@@ -20,19 +20,20 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 
 ## 📅 June 2025
 
-| Date       | Problem                            | Topic   | Platform | Link                                                                              |
-| ---------- | ---------------------------------- | ------- | -------- | --------------------------------------------------------------------------------- |
-| 2025-06-02 | Best Time to Buy and Sell Stock    | Arrays  | LeetCode | [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)    |
-| 2025-06-04 | Rotate Array                       | Arrays  | LeetCode | [Problem Link](https://leetcode.com/problems/rotate-array/)                       |
-| 2025-06-05 | Product of Array Except Self       | Arrays  | LeetCode | [Problem Link](https://leetcode.com/problems/product-of-array-except-self/)       |
-| 2025-06-05 | Best Time to Buy and Sell Stock II | Arrays  | LeetCode | [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
-| 2025-06-06 | Number of Zero-Filled Subarrays    | Arrays  | LeetCode | [Problem Link](https://leetcode.com/problems/number-of-zero-filled-subarrays/)    |
-| 2025-06-07 | Increasing Triplet Subsequence     | Arrays  | LeetCode | [Problem Link](https://leetcode.com/problems/increasing-triplet-subsequence/)     |
-| 2025-06-08 | Is Subsequence                     | Strings | LeetCode | [Problem Link](https://leetcode.com/problems/is-subsequence/)                     |
-| 2025-06-11 | Valid Palindrome                   | Strings | LeetCode | [Problem Link](https://leetcode.com/problems/valid-palindrome/)                   |
-| 2025-06-14 | Longest Common Prefix              | Strings | LeetCode | [Problem Link](https://leetcode.com/problems/longest-common-prefix/)              |
-| 2025-06-15 | Reverse Words in a String          | Strings | LeetCode | [Problem Link](https://leetcode.com/problems/reverse-words-in-a-string/)          |
-| 2025-06-16 | Single Number                      | Bit Manipulation  | LeetCode | [Problem Link](https://leetcode.com/problems/single-number/)                      |
+| Date       | Problem                            | Topic            | Platform | Link                                                                              |
+| ---------- | ---------------------------------- | ---------------- | -------- | --------------------------------------------------------------------------------- |
+| 2025-06-02 | Best Time to Buy and Sell Stock    | Arrays           | LeetCode | [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)    |
+| 2025-06-04 | Rotate Array                       | Arrays           | LeetCode | [Problem Link](https://leetcode.com/problems/rotate-array/)                       |
+| 2025-06-05 | Product of Array Except Self       | Arrays           | LeetCode | [Problem Link](https://leetcode.com/problems/product-of-array-except-self/)       |
+| 2025-06-05 | Best Time to Buy and Sell Stock II | Arrays           | LeetCode | [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |
+| 2025-06-06 | Number of Zero-Filled Subarrays    | Arrays           | LeetCode | [Problem Link](https://leetcode.com/problems/number-of-zero-filled-subarrays/)    |
+| 2025-06-07 | Increasing Triplet Subsequence     | Arrays           | LeetCode | [Problem Link](https://leetcode.com/problems/increasing-triplet-subsequence/)     |
+| 2025-06-08 | Is Subsequence                     | Strings          | LeetCode | [Problem Link](https://leetcode.com/problems/is-subsequence/)                     |
+| 2025-06-11 | Valid Palindrome                   | Strings          | LeetCode | [Problem Link](https://leetcode.com/problems/valid-palindrome/)                   |
+| 2025-06-14 | Longest Common Prefix              | Strings          | LeetCode | [Problem Link](https://leetcode.com/problems/longest-common-prefix/)              |
+| 2025-06-15 | Reverse Words in a String          | Strings          | LeetCode | [Problem Link](https://leetcode.com/problems/reverse-words-in-a-string/)          |
+| 2025-06-16 | Single Number                      | Bit Manipulation | LeetCode | [Problem Link](https://leetcode.com/problems/single-number/)                      |
+| 2025-06-17 | Number of 1 Bits                   | Bit Manipulation | LeetCode | [Problem Link](https://leetcode.com/problems/number-of-1-bits/)                   |
 
 ---
 
