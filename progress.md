@@ -4,7 +4,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 
 ## 🔢 Problem Count
 
-**Total Solved:** 15 problems ✅
+**Total Solved:** 16 problems ✅
 
 ---
 
@@ -34,6 +34,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 | 2025-06-15 | Reverse Words in a String          | Strings          | LeetCode | [Problem Link](https://leetcode.com/problems/reverse-words-in-a-string/)          |
 | 2025-06-16 | Single Number                      | Bit Manipulation | LeetCode | [Problem Link](https://leetcode.com/problems/single-number/)                      |
 | 2025-06-17 | Number of 1 Bits                   | Bit Manipulation | LeetCode | [Problem Link](https://leetcode.com/problems/number-of-1-bits/)                   |
+| 2025-06-18 | Counting Bits                      | Bit Manipulation | LeetCode | [Problem Link](https://leetcode.com/problems/counting-bits/)                      |
 
 ---
 
