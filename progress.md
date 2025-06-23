@@ -4,7 +4,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 
 ## 🔢 Problem Count
 
-**Total Solved:** 20 problems ✅
+**Total Solved:** 21 problems ✅
 
 ---
 
@@ -39,6 +39,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 | 2025-06-20 | Bitwise AND of Numbers Range       | Bit Manipulation | LeetCode | [Problem Link](https://leetcode.com/problems/bitwise-and-of-numbers-range/)       |
 | 2025-06-21 | Single Number III                  | Bit Manipulation | LeetCode | [Problem Link](https://leetcode.com/problems/single-number-iii/)                  |
 | 2025-06-22 | Maximum Number of Balloons         | Hash Table       | LeetCode | [Problem Link](https://leetcode.com/problems/maximum-number-of-balloons/)         |
+| 2025-06-23 | Number of Good Pairs               | Hash Table       | LeetCode | [Problem Link](https://leetcode.com/problems/number-of-good-pairs/)               |
 
 ---
 
