@@ -4,7 +4,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 
 ## 🔢 Problem Count
 
-**Total Solved:** 22 problems ✅
+**Total Solved:** 23 problems ✅
 
 ---
 
@@ -41,6 +41,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 | 2025-06-22 | Maximum Number of Balloons         | Hash Table       | LeetCode | [Problem Link](https://leetcode.com/problems/maximum-number-of-balloons/)         |
 | 2025-06-23 | Number of Good Pairs               | Hash Table       | LeetCode | [Problem Link](https://leetcode.com/problems/number-of-good-pairs/)               |
 | 2025-06-24 | Isomorphic Strings                 | Hash Table       | LeetCode | [Problem Link](https://leetcode.com/problems/isomorphic-strings/)                 |
+| 2025-06-25 | Ransom Note                        | Hash Table       | LeetCode | [Problem Link](https://leetcode.com/problems/ransom-note/)                        |
 
 ---
 
