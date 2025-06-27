@@ -4,7 +4,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 
 ## 🔢 Problem Count
 
-**Total Solved:** 24 problems ✅
+**Total Solved:** 25 problems ✅
 
 ---
 
@@ -43,8 +43,8 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 | 2025-06-24 | Isomorphic Strings                 | Hash Table       | LeetCode | [Problem Link](https://leetcode.com/problems/isomorphic-strings/)                 |
 | 2025-06-25 | Ransom Note                        | Hash Table       | LeetCode | [Problem Link](https://leetcode.com/problems/ransom-note/)                        |
 | 2025-06-26 | Contains Duplicate II              | Hash Table       | LeetCode | [Problem Link](https://leetcode.com/problems/contains-duplicate-ii/)              |
+| 2025-06-27 | Group Anagrams                     | Hash Table       | LeetCode | [Problem Link](https://leetcode.com/problems/group-anagrams/)                     |
 
 ---
 
 More to come, one problem at a time! 💪
-  
