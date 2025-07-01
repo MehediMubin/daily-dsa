@@ -4,7 +4,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 
 ## 🔢 Problem Count
 
-**Total Solved:** 28 problems ✅
+**Total Solved:** 29 problems ✅
 
 ---
 
@@ -47,6 +47,14 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 | 2025-06-28 | Reorganize String                  | Greedy / Heap    | LeetCode | [Problem Link](https://leetcode.com/problems/reorganize-string/)                  |
 | 2025-06-29 | Longest Consecutive Sequence       | Hash Table       | LeetCode | [Problem Link](https://leetcode.com/problems/longest-consecutive-sequence/)       |
 | 2025-06-30 | Split Array into Consecutive Subsequences | Greedy | LeetCode | [Problem Link](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) |
+
+---
+
+## 📅 July 2025
+
+| Date       | Problem                      | Topic  | Platform | Link                                                                 |
+| ---------- | ---------------------------- | ------ | -------- | -------------------------------------------------------------------- |
+| 2025-07-01 | Number of Matching Subsequences | Strings | LeetCode | [Problem Link](https://leetcode.com/problems/number-of-matching-subsequences/) |
 
 ---
 
