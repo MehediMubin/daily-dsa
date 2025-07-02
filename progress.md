@@ -4,7 +4,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 
 ## 🔢 Problem Count
 
-**Total Solved:** 29 problems ✅
+**Total Solved:** 30 problems ✅
 
 ---
 
@@ -52,9 +52,10 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 
 ## 📅 July 2025
 
-| Date       | Problem                      | Topic  | Platform | Link                                                                 |
-| ---------- | ---------------------------- | ------ | -------- | -------------------------------------------------------------------- |
-| 2025-07-01 | Number of Matching Subsequences | Strings | LeetCode | [Problem Link](https://leetcode.com/problems/number-of-matching-subsequences/) |
+| Date       | Problem                            | Topic   | Platform | Link                                                                 |
+| ---------- | ---------------------------------- | ------- | -------- | -------------------------------------------------------------------- |
+| 2025-07-01 | Number of Matching Subsequences    | Strings | LeetCode | [Problem Link](https://leetcode.com/problems/number-of-matching-subsequences/) |
+| 2025-07-02 | Number of Good Ways to Split a String | Strings | LeetCode | [Problem Link](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/) |
 
 ---
 
