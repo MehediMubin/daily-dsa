@@ -4,7 +4,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 
 ## 🔢 Problem Count
 
-**Total Solved:** 32 problems ✅
+**Total Solved:** 33 problems ✅
 
 ---
 
@@ -58,6 +58,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 | 2025-07-02 | Number of Good Ways to Split a String | Strings    | LeetCode | [Problem Link](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/) |
 | 2025-07-03 | Merge Sorted Array                 | Two Pointers  | LeetCode | [Problem Link](https://leetcode.com/problems/merge-sorted-array/)   |
 | 2025-07-04 | Two Sum II - Input Array Is Sorted | Two Pointers  | LeetCode | [Problem Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| 2025-07-05 | 3Sum                               | Two Pointers  | LeetCode | [Problem Link](https://leetcode.com/problems/3sum/)                  |
 
 ---
 
