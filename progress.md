@@ -4,7 +4,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 
 ## 🔢 Problem Count
 
-**Total Solved:** 34 problems ✅
+**Total Solved:** 35 problems ✅
 
 ---
 
@@ -60,6 +60,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 | 2025-07-04 | Two Sum II - Input Array Is Sorted | Two Pointers  | LeetCode | [Problem Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
 | 2025-07-05 | 3Sum                               | Two Pointers  | LeetCode | [Problem Link](https://leetcode.com/problems/3sum/)                  |
 | 2025-07-07 | Container With Most Water          | Two Pointers  | LeetCode | [Problem Link](https://leetcode.com/problems/container-with-most-water/) |
+| 2025-07-08 | Range Sum Query - Immutable        | Prefix Sum    | LeetCode | [Problem Link](https://leetcode.com/problems/range-sum-query-immutable/) |
 
 ---
 
