@@ -4,7 +4,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 
 ## 🔢 Problem Count
 
-**Total Solved:** 35 problems ✅
+**Total Solved:** 36 problems ✅
 
 ---
 
@@ -61,6 +61,7 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 | 2025-07-05 | 3Sum                               | Two Pointers  | LeetCode | [Problem Link](https://leetcode.com/problems/3sum/)                  |
 | 2025-07-07 | Container With Most Water          | Two Pointers  | LeetCode | [Problem Link](https://leetcode.com/problems/container-with-most-water/) |
 | 2025-07-08 | Range Sum Query - Immutable        | Prefix Sum    | LeetCode | [Problem Link](https://leetcode.com/problems/range-sum-query-immutable/) |
+| 2025-07-09 | Subarray Sum Equals K              | Prefix Sum    | LeetCode | [Problem Link](https://leetcode.com/problems/subarray-sum-equals-k/) |
 
 ---
 
