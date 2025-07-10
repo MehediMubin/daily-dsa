@@ -63,6 +63,6 @@ This file tracks my daily DSA (Data Structures & Algorithms) problem-solving jou
 | 2025-07-08 | Range Sum Query - Immutable        | Prefix Sum    | LeetCode | [Problem Link](https://leetcode.com/problems/range-sum-query-immutable/) |
 | 2025-07-09 | Subarray Sum Equals K              | Prefix Sum    | LeetCode | [Problem Link](https://leetcode.com/problems/subarray-sum-equals-k/) |
 
----
+----
 
 More to come, one problem at a time! 💪
